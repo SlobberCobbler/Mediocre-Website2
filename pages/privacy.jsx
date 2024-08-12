@@ -3,7 +3,7 @@ export default function Privacy() {
     return (
         <div>
             <h1 className="font-semibold text-3xl text-white/75">Privacy Policy for MusicMaker</h1>
-            <p className="text-sm text-white/30 mb-4">Last Update: 20/05/2022  🆕️</p>
+            <p className="text-sm text-white/30 mb-4">Last Update: 14/10/2023  🆕️</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳ <a className="text-white">WHAT DATA DO WE STORE?</a></p>
         <div className="py-3"></div>
@@ -27,7 +27,7 @@ export default function Privacy() {
         <div className="py-3"></div>
         <p>⊳ <a className="text-white">GOT CONCERNS OR QUERIES?</a></p>
         <div className="py-3"></div>
-        <p>If you have any concerns or queries relating our privacy policy or our bot or if you want your data to be removed, you can contact <a className="text-white" href="https://discord.com/users/706760101209309236">slobbercobbler</a> directy on our <a className="text-white" href="https://discord.gg/8ReXz7MUus">Support Server</a>!</p>
+        <p>If you have any concerns or queries relating our privacy policy or our bot or if you want your data to be removed, you can contact <a className="text-white" href="https://discord.com/users/706760101209309236">slobbercobbler</a> directly on our <a className="text-white" href="https://discord.gg/8ReXz7MUus">Support Server</a>!</p>
     
         </div>
             </div>
