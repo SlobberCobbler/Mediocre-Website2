@@ -83,7 +83,7 @@ const Header = ({ $, NavItems }) => {
                                 width="48" height="48"
                             />
                             <p className="invisible md:visible text-xl text-white font-semibold">
-                              <a href="/"><span className="text-amber-400">Music</span>Maker</a>
+                              <a href="/"><span className="text-amber-400">Medi</span>ocre</a>
                             </p>
                         </div>
                         <ul className="hidden lg:flex items-center space-x-4">
@@ -166,7 +166,7 @@ const Header = ({ $, NavItems }) => {
                                 </Menu.Items>
                             </Transition>
                         </Menu>
-                        <Link href="https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot">
+                        <Link href="https://discord.com/api/oauth2/authorize?client_id=1162908048436777000&permissions=67615669612279&scope=applications.commands%20bot">
                             <a className="w-auto flex items-center justify-center shadow-lg gap-x-2 shadow-amber-600/20 rounded-xl py-2.5 font-medium px-7 bg-gradient-to-tl from-amber-500 to-amber-700 text-white  hover:opacity-80 transition duration-200">
                                Invite
                             </a>
