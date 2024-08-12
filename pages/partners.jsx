@@ -16,14 +16,14 @@ export default function Partners() {
             <div className="lg:max-w-screen-lg mt-10 mx-auto grid grid-cols-1 md:grid-cols-2 gap-4">
 
             <div className="flex flex-col justify-center text-white rounded">
-            <a href="https://codeshare.me">
+            <a href="https://discord.gg/XVKrja9EHH">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/676124992919830548/72826a4ed7d1a010df263623be5dd4ba.png" />
+                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1237246713903710208/1272507043084898354/FDRInsignia.png?ex=66bb3a09&is=66b9e889&hm=434ad753ea1f6d85120f253f464b081b61c9b885125746a06cdd5b38caef6307&=&format=webp&quality=lossless&width=350&height=350" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Code Share</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Fleet of Divine Reclamation</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      Code Share, it offers an ideal platform for developers to share their projects, interact with other developers and sell their projects for money, exploring many projects in different categories and software languages.
+                                      Fleet of Divine Reclamation is a group of people that have supported me in my development of Mediocre since the beginning. Although FDR is a clan on the game Halo: MCC, the people in this group make it really fun to just be around them.
                                     </p>
                                 </div>     
                             </div>
