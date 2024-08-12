@@ -23,7 +23,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Fleet of Divine Reclamation</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      Fleet of Divine Reclamation is a group of people that have supported me in my development of Mediocre since the beginning. Although FDR is a clan on the game Halo: MCC, the people in this group make it really fun to just be around them.
+                                      FDR is a group of people that have supported me in my development of Mediocre since the beginning. Although FDR is a clan on the game Halo: MCC, the people in this group make it really fun to just be around them.
                                     </p>
                                 </div>     
                             </div>
