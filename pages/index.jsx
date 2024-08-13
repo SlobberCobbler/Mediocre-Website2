@@ -86,7 +86,7 @@ Vote Mediocre</a>
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
-                  <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png"  width="128" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Customize to your liking!</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to play some games, moderate users, and configure your server with ease?</p>
                 </div>
