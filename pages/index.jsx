@@ -90,7 +90,7 @@ Vote Mediocre</a>
                   <p className="text-3xl text-white font-semibold">Customize to your liking!</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to play some games, moderate users, and configure your server with ease?</p>
                 </div>
-                <img src="https://media.discordapp.net/attachments/1237246713903710208/1269549737128890380/avatar.png?ex=66ba5b14&is=66b90994&hm=eeb6d3603eddf5c8aea41ac3a560e1ed07487498bb08805a2ade533d86290870&=&format=webp&quality=lossless&width=455&height=455" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/emojis/1272775941206179842.webp?size=96&quality=lossless" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
