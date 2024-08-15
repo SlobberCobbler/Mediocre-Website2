@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="/img/logo.jpg" />
+          <link rel="apple-touch-icon" href="/public/img/logo.jpg" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
@@ -28,7 +28,7 @@ class MyDocument extends Document {
             property="og:description"
             content="How about moderating your server with endless possibilities? Use automod and an advanced moderation system and have some fun with more than 500+ commands!"
           />
-          <meta property="og:image" content="/img/logo.jpg" />
+          <meta property="og:image" content="/public/img/logo.jpg" />
           <meta property="og:image:alt" content="Mediocre" />
           <meta property="og:locale" content="en_GB" />
           <meta
@@ -36,7 +36,7 @@ class MyDocument extends Document {
             content="Mediocre"
           />
           <meta name="theme-color" content="#087ddd" />
-          <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
+          <link rel="icon" href="/public/img/logo.jpg" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
