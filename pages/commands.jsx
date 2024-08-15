@@ -27,7 +27,7 @@ const commands = [
   "/messages",
   "/moderation",
   "/multiplayer",
-  "/music・:exclamation:",
+  "/music・❌",
   "/notepad",
   "/premium",
   "/profile",
